@@ -2,7 +2,6 @@
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/agKWcH8zJq?style=flat-square)](https://discord.gg/agKWcH8zJq)
 
 Korean fan translation repository for the Umamusume: Pretty Derby game.
-This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
 
 
 # Install / Use
